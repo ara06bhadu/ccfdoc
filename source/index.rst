@@ -18,4 +18,4 @@ This documentation is for anyone who wishes to know about :ref:'What is CCF <wha
    :maxdepth: 2
    :caption: Contents:
    
-   whatsccf
+   whatisccf
