@@ -9,7 +9,7 @@ This is just a sample made to test tools that could be used to Document about CC
 
 Who is this Documentation for? 
 
-This documentation is for anyone who wishes to know about :ref:'What is CCF <whatsccf>' and who wants to set up CCF from the scratch.
+This documentation is for anyone who wishes to know about :ref:`What is CCF <whatsccf>` and who wants to set up CCF from the scratch.
 
 
 
