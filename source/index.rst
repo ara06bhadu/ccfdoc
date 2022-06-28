@@ -17,4 +17,5 @@ This documentation is for anyone who wishes to know about :ref:'What is CCF <wha
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   whatsccf
